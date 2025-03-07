@@ -1,0 +1,103 @@
+.assuntos{
+    background-color:#E0ECF8;
+}
+.right{
+    text-align: right;
+}
+.videos{
+  text-align: center;
+}
+.banner{
+  text-align: center;
+}
+.azul{
+  background-color:#5a7f78;
+  padding: 5px;
+}
+.branco{
+  background-color: #f7f8fc;
+  padding: 5px;
+}
+.link{
+  text-align: right;
+  padding: 5px;
+}
+.bordaazul{
+    border: 2px solid #81BEF7
+}
+.bordabranca{
+    border: 2px solid white
+}
+div.link a:hover{
+  color: #000000;
+  transition: 0.2s ease, color 0.3s ease;
+}
+table{
+  background-color:white;
+  border: 2px solid #000000;
+  text-align: left;
+  box-align: center;
+  margin: auto;
+}
+p{
+  font-family: Arial;
+  font-size: 16px;
+  padding: 6px;
+}
+pre{
+  font-family: Arial;
+  font-size: 16px;
+  padding: 6px;
+}
+h2{
+  text-align: center;
+}
+h3{
+  font-size: 35px;
+  text-align: center;
+  padding: 5px;
+  font-family: Arial;
+}
+h1{
+  font-size: 45px;
+  text-align: center;
+  padding: 5px;
+  font-family: Arial;
+}
+body{
+  background-color:#bbdec6;
+  font-family:Arial; 
+  margin-left: 170px; 
+  margin-right: 170px;
+  font-size: 25px;
+}
+ul{
+  font-family: Arial;
+  font-size: 16px;
+}
+ol{
+  font-family: Arial;
+  font-size: 16px;
+}
+div.scrollmenu {
+  background-color:#5a7f78;
+  overflow: auto;
+  white-space: nowrap;
+  text-align: center;
+  border: 2px solid #000000;
+  position: sticky;
+  top: 0;
+  }
+
+div.scrollmenu a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  }
+
+div.scrollmenu a:hover {
+  background-color: #D8D8D8;
+  transition: 0.5s ease, color 0.5s ease;
+  }
